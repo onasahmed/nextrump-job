@@ -1,0 +1,14 @@
+.home-container button{
+width: 96px;
+height: 40px;
+color: white;
+background-color: #1D4ED8;;
+border-radius: 10px;
+padding: 12px;
+align-items: center;
+vertical-align: middle;
+justify-content: center;
+margin: 40px auto;
+
+
+}
